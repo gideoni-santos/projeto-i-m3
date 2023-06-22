@@ -9,10 +9,10 @@ O sistema irá auxiliar na avaliação de quais são as tecnologias que as empre
 Vamos ter o cadastro de empresas parceiras, cadastro de tecnologias com a opção de selecionar a área (webdev, dados, marketing, etc.), uma tabela para registrar quais tecnologias as empresas estão utilizando e uma tabela para cadastro de colaboradores.
 
 * ## Modelo Conceitual
-![alt text](./DER%20CONCEITUAL.png)
+![alt text](./img/conceitual%20readme.png)
 
 * ## Modelo Lógico 
-![alt text](./DER%20LOGICO.png)
+![alt text](./img/logico%20readme.png)
 <br>
 <br>
 
@@ -22,4 +22,4 @@ Vamos ter o cadastro de empresas parceiras, cadastro de tecnologias com a opçã
 <br>
 <br>
 
-![Alt text](resilia.png)
+![Alt text](./img/resilia.png)
